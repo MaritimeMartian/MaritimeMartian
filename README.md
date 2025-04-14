@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @MaritimeMartian
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C, Java, JavaScript, and Bash scripts.
-- ⚡ Skills: Can program in Visual Basic, HTML, CSS, Command Prompt batch scripts, and basic SQL.
+- 👀 🌱 I’m interested in computer programming
+- ⚡ Skills/Programming languages:
+- Visual Basic
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Basic SQL
+- Command Prompt batch scripting
+- Bash scripting
 
 <!---
 MaritimeMartian/MaritimeMartian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
